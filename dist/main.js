@@ -1,0 +1,1 @@
+document.body.appendChild(function(){const d=document.createElement("div");return d.innerHTML=_.join(["Hello","webpack"]," "),d.classList.add("hello"),d.classList.add("h1"),d}()),document.body.classList.add("bgColor");

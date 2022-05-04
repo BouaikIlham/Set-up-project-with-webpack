@@ -1,0 +1,25 @@
+{
+  "name": "set-up-project-with-webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "start": "webpack serve --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BouaikIlham/Set-up-project-with-webpack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BouaikIlham/Set-up-project-with-webpack/issues"
+  },
+  "homepage": "https://github.com/BouaikIlham/Set-up-project-with-webpack#readme",
+  "devDependencies": {
+    "webpack": "^5.72.0",
+    "webpack-cli": "^4.9.2"
+  }
+}
